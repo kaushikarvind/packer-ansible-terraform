@@ -8,5 +8,5 @@
 *tfstate
 *tfstate*
 *.tfvars
-*.pkrvar.hcl
+*.pkrvars.hcl
 *Jenkinsfile
