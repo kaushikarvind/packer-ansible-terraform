@@ -1,0 +1,9 @@
+// variables can be assigned & called from command-line
+// Please refer packer documentation on variables
+
+//{
+//  "az_client_id" : "YOUR_CLIENT_ID",
+//  "az_client_secret" : "YOUR_CLIENT_SECRET",
+//  "az_tenant_id" : "YOUR_TENANT_ID",
+//  "az_subscription_id" : "YOUR_SUBSCRIPTION_ID"
+//}

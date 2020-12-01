@@ -1,0 +1,12 @@
+*.idea
+*.retry
+.env
+.terraform
+*.tfstate*
+*.state
+*state*
+*tfstate
+*tfstate*
+*.tfvars
+*.pkrvar.hcl
+*Jenkinsfile

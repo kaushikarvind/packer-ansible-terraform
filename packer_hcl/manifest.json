@@ -1,0 +1,14 @@
+{
+  "builds": [
+    {
+      "name": "pkr_vm",
+      "builder_type": "azure-arm",
+      "build_time": 1606816095,
+      "files": null,
+      "artifact_id": "/subscriptions/8a4a71de-47c9-4d83-86d8-57a0e67ed471/resourceGroups/tf_rg/providers/Microsoft.Compute/images/MB_dec20",
+      "packer_run_uuid": "9b9a3215-a49e-7a41-abc3-43577b6cd2dc",
+      "custom_data": null
+    }
+  ],
+  "last_run_uuid": "9b9a3215-a49e-7a41-abc3-43577b6cd2dc"
+}

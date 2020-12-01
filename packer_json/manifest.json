@@ -1,0 +1,23 @@
+{
+  "builds": [
+    {
+      "name": "amazon-ebs",
+      "builder_type": "amazon-ebs",
+      "build_time": 1568138296,
+      "files": null,
+      "artifact_id": "us-east-1:ami-09a1338a93cced54a",
+      "packer_run_uuid": "38bdc1df-41ec-bb45-404e-63cd8ca75173",
+      "custom_data": null
+    },
+    {
+      "name": "azure-arm",
+      "builder_type": "azure-arm",
+      "build_time": 1606758378,
+      "files": null,
+      "artifact_id": "/subscriptions/8a4a71de-47c9-4d83-86d8-57a0e67ed471/resourceGroups/tf_rg/providers/Microsoft.Compute/images/MB_dec20",
+      "packer_run_uuid": "9bbc4f71-1b88-0261-f02f-600e233707d2",
+      "custom_data": null
+    }
+  ],
+  "last_run_uuid": "9bbc4f71-1b88-0261-f02f-600e233707d2"
+}
